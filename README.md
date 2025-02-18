@@ -1,5 +1,5 @@
 # Snake
-**A simple classic game SNAKE based on python**
+**A simple classic game SNAKE in Python**
 ![{A0BB27B9-F80E-4578-9646-330CC97F711E}](https://github.com/user-attachments/assets/d224a6b9-4092-484c-9c65-03c6c3fa5c7a)
 
 ## Prerequisites
