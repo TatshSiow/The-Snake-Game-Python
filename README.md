@@ -21,6 +21,12 @@
 8. Click the upper ▶️ icon
 9. It will pop up a new window to the game
 
+## Build into exe
+- Install PyInstaller `pip install pyinstaller`
+- Locate your filename(***) and execute `pyinstaller ***.py` to start your build
+- For compile it into one file, execute `pyinstaller --onefile ***.py`
+- If you want to add more assets, head to [PyInstaller Documentation](https://pyinstaller.org/en/stable/)
 
 ## I don't know any of above! Help!
 - Head to releases and download .exe version
+- First startup will need some time, be patient
