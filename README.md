@@ -25,7 +25,7 @@
 - Install PyInstaller `pip install pyinstaller`
 - Locate your filename(***) and execute `pyinstaller ***.py` to start your build
 - For compile it into one file, execute `pyinstaller --onefile ***.py`
-- If you want to add more assets, head to [PyInstaller Documentation](https://pyinstaller.org/en/stable/)
+- If you want to learn more, head to [PyInstaller Documentation](https://pyinstaller.org/en/stable/)
 
 ## I don't know any of above! Help!
 - Head to [Releases](https://github.com/TatshSiow/The-Snake-Game-Python/releases)
