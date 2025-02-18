@@ -29,5 +29,5 @@
 
 ## I don't know any of above! Help!
 - Head to [Releases](https://github.com/TatshSiow/The-Snake-Game-Python/releases)
-- ZIP : All resources are all extraced
+- ZIP : All resources are all extracted
 - EXE : First startup will need some time to extract the resources, be patient
