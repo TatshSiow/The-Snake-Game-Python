@@ -28,5 +28,6 @@
 - If you want to add more assets, head to [PyInstaller Documentation](https://pyinstaller.org/en/stable/)
 
 ## I don't know any of above! Help!
-- Head to releases and download .exe version
-- First startup will need some time, be patient
+- Head to [Releases](https://github.com/TatshSiow/The-Snake-Game-Python/releases)
+- ZIP : All resources are all extraced
+- EXE : First startup will need some time to extract the resources, be patient
