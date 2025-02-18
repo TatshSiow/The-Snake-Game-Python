@@ -12,10 +12,11 @@
 
 ## Step-by-Step Guide
 1. Install [Python](https://www.python.org/downloads/)
-2. Install [Jupyter Notebook](https://jupyter.org/install) `pip install notebook`
-3. Install [PyGame](https://www.pygame.org/wiki/GettingStarted) `pip install -U pygame --user`
-4. Run Jupyter Notebook `jupyter notebook`
-5. Create a .ipynb file at your desired location ( upper right side, you will see a `new` , click it and select `Python 3 (ipykernel)` )
-6. Copy the code to cells
-7. Click the upper ▶️ icon
-8. It will pop up a new window to the game
+2. == Head to CMD / console ==
+3. Install [Jupyter Notebook](https://jupyter.org/install) `pip install notebook`
+4. Install [PyGame](https://www.pygame.org/wiki/GettingStarted) `pip install -U pygame --user`
+5. Run Jupyter Notebook `jupyter notebook`
+6. Create a .ipynb file at your desired location ( upper right side, you will see a `new` , click it and select `Python 3 (ipykernel)` )
+7. Copy the code to cells
+8. Click the upper ▶️ icon
+9. It will pop up a new window to the game
