@@ -20,3 +20,7 @@
 7. Copy the code to cells
 8. Click the upper ▶️ icon
 9. It will pop up a new window to the game
+
+
+## I don't know any of above! Help!
+- Head to releases and download .exe version
